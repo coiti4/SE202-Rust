@@ -4,6 +4,6 @@ This repository contains a series of practical exercises developed as part of th
 
 ## Project Structure
 
-- **tp0/**: Introduction to Rust, including basic syntax and setting up the development environment.
+- **tp0/**: tp0/: Introduction to Rust, featuring exercises on Fibonacci sequence implementation, as well as concepts of mutability, ownership, and lifetimes.
 - **tp1-virtual-machine/**: Implementation of a simple virtual machine, covering instruction parsing, memory handling, and low-level computation.
 - **tp2-led-matrix/**: Control of an LED matrix using Rust, exploring embedded programming concepts and hardware control.
