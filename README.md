@@ -1,4 +1,4 @@
-# SE202 Rust – Exercises from the Rust Course at Télécom Paris (2022/2023)
+# SE202 Rust – Lab assignments from the Rust Course at Télécom Paris (2022/2023)
 
 This repository contains a series of practical exercises developed as part of the Rust programming course at Télécom Paris during the 2022/2023 academic year. These exercises aim to reinforce key concepts of the Rust language, with a focus on systems programming and embedded development.
 
