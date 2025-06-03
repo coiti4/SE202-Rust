@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/stm32l4-f049c16b425d96d1/out
+cargo:rerun-if-changed=src/stm32l4x5/device.x
+cargo:rerun-if-changed=build.rs

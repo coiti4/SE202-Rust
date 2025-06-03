@@ -1,0 +1,6 @@
+$ mkdir -p "/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/az-be72cdc162ba6f4d/out/try_track_caller"
+$ cd "/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/az-be72cdc162ba6f4d/out/try_track_caller"
+$ printf '%s' "// try_tra"... > "/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/az-be72cdc162ba6f4d/out/try_track_caller/try_track_caller.rs"
+$ cd "/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/az-be72cdc162ba6f4d/out/try_track_caller" && "rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "/home/coiti4/Documents/github/se202-rust/tp2-led-matrix/target/thumbv7em-none-eabihf/debug/build/az-be72cdc162ba6f4d/out/try_track_caller"
